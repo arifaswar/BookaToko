@@ -1,0 +1,66 @@
+<%- include('partials/header') %>
+<style>
+    body{
+        height: 100%;
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: rgba(4, 48, 61, 0.401);
+    }
+    .container {
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        width: 1000px;
+        height: 500px;
+        border-radius: 10px;
+        /* text-align: center; */
+        background-color: rgb(182, 240, 240);
+        padding: 10px;
+        column-gap: 20px;
+    }
+    .ket {
+        padding-left: 0px;
+        display: flex;
+        justify-content: left;
+        margin-right: 200px;
+        align-items: center;
+    }
+    .header-log{
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin-bottom: 30px;
+        text-align: center;
+        /* margin-right: 100px; */
+    }
+    .log-in{
+        justify-content: center;
+        /* display: flex; */
+        align-items: center;
+        border-radius: 10px;
+        text-align: center;
+        /* margin-left: 500px; */
+        padding: 20px;
+        height: 200px;
+        margin-right: 100px;
+        background-color: rgb(253, 255, 255);
+    }
+</style>
+
+<div class="container">
+    <div class="ket">
+        <img src="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-person-reading-book-vector-png-image_6958129.png" alt="">
+        <p>Ayo budayakan membaca</p>
+    </div>
+    <div class="header-log">
+        <h1>BookaToko</h1>
+        <div class="log-in">
+        <p>Silahkan Login jika sudah punya akun</p>
+        <button> <a href="/login">Login</a></button>
+        <p>Belum punya akun <a href="">Register</a></p>
+        </div>
+    </div>
+    
+</div>

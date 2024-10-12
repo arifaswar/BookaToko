@@ -1,0 +1,38 @@
+
+[{
+  "id": 1,
+  "productName": "Fisika Dasar 1",
+  "description": "Teori Fisika Dasar 1, implementasi dalam kehidupan sehari-hari",
+  "price": 120000,
+  "imgUrl": "https://deepublishstore.com/wp-content/uploads/2018/05/fisika-dasar-I_Astuti-Salim-depan-scaled.jpg",
+  "CategoryId": 1
+}, {
+  "id": 2,
+  "productName": "Matematika Dasar",
+  "description": "Belajar Matematika dari dasar hingga paham konsep dan perhitungan",
+  "price": 200000,
+  "imgUrl": "https://ebooks.gramedia.com/ebook-covers/82467/image_highres/BLK_MDUPT1676271992583.jpg",
+  "CategoryId": 2
+}, {
+  "id": 3,
+  "productName": "175 Days",
+  "description": "Aku Ikhlas tapi rindu, Novel terlaris di abad ini",
+  "price": 145000,
+  "imgUrl": "https://cdn.gramedia.com/uploads/items/172_Days.jpg",
+  "CategoryId": 3
+}, {
+  "id": 4,
+  "productName": "Sthepen King",
+  "description": "Buku Fantasy yang akan membawa anda seakan ikut di alur ceritanya",
+  "price": 250000,
+  "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19a-Fy6Gap9HVf4luXM-JS95Ue4EmnXDAiQ&s",
+  "CategoryId": 4
+}, {
+  "id": 5,
+  "productName": "Khadaffi",
+  "description": "Anjing Gila dari Sahara",
+  "price": 50000,
+  "imgUrl": "https://kubuku.id/api/generic/showCover/BK59469",
+  "CategoryId": 5
+}]
+
